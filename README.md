@@ -1,6 +1,6 @@
-# Servidor Pessoal
+# HomeLab
 
-Um painel administrativo para gerenciar arquivos e monitorar recursos do sistema, desenvolvido com React e Node.js.
+Um HomeLab pessoal para gerenciar arquivos e monitorar recursos do sistema, desenvolvido com React e Node.js.
 
 ## 📋 Visão Geral
 
