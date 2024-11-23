@@ -1,0 +1,69 @@
+# Dependências
+node_modules/
+/.pnp
+.pnp.js
+
+# Ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.*
+
+# Build
+/build
+/dist
+/out
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Arquivos de configuração sensíveis
+config/secrets.js
+**/credentials.*
+**/private.*
+
+# Arquivos de upload
+/uploads
+/storage
+/media
+
+# Cache
+.cache/
+.next/
+.nuxt/
+.gatsby/
+
+# Coverage
+/coverage
+
+# Certificados SSL
+*.pem
+*.key
+*.crt
+
+# Banco de dados local
+*.sqlite
+*.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+temp/
